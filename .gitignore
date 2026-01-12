@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# Data files (large files)
+*.csv
+*.zip
+*.pkl
+*.h5
+*.hdf5
+
+# Model files
+*.pkl
+*.joblib
+*.h5
+*.pb
+*.onnx
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# CatBoost
+catboost_info/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
